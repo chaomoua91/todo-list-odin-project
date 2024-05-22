@@ -1,4 +1,4 @@
-import _ from 'lodash';
-import './style.css';
+import _ from "lodash";
+import "./style.css";
 
-console.log("index.js")
+console.log("index.js");
